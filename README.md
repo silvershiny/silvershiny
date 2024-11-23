@@ -1,6 +1,9 @@
-﻿
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+everyone+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
+﻿<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=silvershiny&theme=gitdimmed&column=8" />
 </p>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=silvershiny&color=brightgreen" alt="watching_count" />
@@ -21,7 +24,7 @@
 - 📫 How to reach me: Contact part
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I never thought I would become a .net programmer!
-
+z
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
