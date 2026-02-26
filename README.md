@@ -3,10 +3,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+everyone+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 ﻿<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=silvershiny&theme=gitdimmed&column=9" />
+  <img src="https://github-profile-trophy.vercel.app/?username=michaelmoyer7&theme=gitdimmed&column=9" />
 </p>
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=silvershiny&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=michaelmoyer7&color=brightgreen" alt="watching_count" />
  </p>
 	
 ## **About me**
@@ -61,9 +61,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=silvershiny&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=silvershiny&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=silvershiny&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--
+![](https://github-readme-stats.vercel.app/api?username=michaelmoyer7&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=michaelmoyer7&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmoyer7&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
 	
 </a>
 </div>
